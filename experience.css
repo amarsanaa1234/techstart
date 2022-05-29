@@ -1,0 +1,73 @@
+experience{
+  display: flex;
+flex-direction: column;
+align-items: center;
+}
+.tailbar{
+  margin-top: 400px;
+  width: 50%;
+  height: 40%;
+}
+.tailbar p{
+  text-align: center;
+  font-size: 30px;
+}
+.line{
+  width: 30%;
+  height: 40%; 
+  background-color: aqua;
+  padding: 2px;
+  box-shadow: 0px 20px 40px aqua;
+}
+.tailbar h4{
+  text-align: center;
+  font-size: 35px;
+  text-shadow: 0px 0px 90px aqua;
+}
+.rating{
+  margin-top: 40%;
+  display: flex;
+  justify-content: space-between;
+color: #fff;
+width: 50%;
+height: 20%;
+}
+.paragraph p{
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 6px solid aqua;
+}
+.name p{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.community{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30%;
+}
+.title h4{
+font-size: 30px;
+color: aqua;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.answer p{
+  font-size: 30px;
+}
+.comments{
+  display: flex;
+  justify-content: center;
+  
+}
+.comments p{
+  margin-top: 20px;
+  color: rgb(119, 116, 116);
+  text-shadow: 0px 0px 80px aqua;
+   width: 45%;
+text-align: center;
+font-size: 20px;
+}
